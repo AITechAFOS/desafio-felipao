@@ -1,1 +1,3 @@
-console.log("Testando a integração VSCode com o GitHub");
+let nomePersonagem = "Zelda"
+let xp = "500"
+
