@@ -1,8 +1,5 @@
-torrar("pão de forma")
-torrar("pão integral")
-//let nome = "felipe"  //Declaração de uma variável local
-var nome //Declaração de uma variável global
-function torrar(pao){
-      nome = "felipe"
+torrar("pão de forma","felipe")
+torrar("pão integral","janaina")
+function torrar(pao, nome){
       console.log("Torrada feita com " + pao)
-      console.log(nome)}
+      console.log("Foi um pedido feito por " + nome)}
