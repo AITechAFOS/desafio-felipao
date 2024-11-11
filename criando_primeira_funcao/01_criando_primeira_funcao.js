@@ -1,17 +1,11 @@
-mainSaveData();
-
+mainSaveData()
 function mainSaveData(){
-      getData();
-      checkValues();
-      sendToDatabase();
-};
-
+      getData()
+      checkValues()
+      sendToDatabase()}
 function getData(){
-	console.log("pegando dados do usuário");
-};
+	console.log("pegando dados do usuário")}
 function checkValues(){
-	console.log("validando dados");
-};
+	console.log("validando dados")}
 function sendToDatabase(){
-	console.log("cadastrando dados");
-};
+	console.log("cadastrando dados")}
