@@ -1,6 +1,12 @@
-let timePokemon = [
-      ["Pikachu","M",1],				
-      ["Charmander","F",3],				
-      ["Bulbassaur","M", 4]				
-]
-console.log(timePokemon)      
+torrar()
+function torrar() {
+      console.log("torrando pão")
+      injetarPao()
+}      
+function injetarPao() {
+console.log("Preparando pra injetar o pão")
+console.log("finalizado")
+}      
+
+
+
